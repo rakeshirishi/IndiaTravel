@@ -1,5 +1,5 @@
 
-# IndiaTravel 🌍
+# IndiaTravel
 
 A Fullstack Tours & Travels Web Application Using MERN Stack 💫
 
