@@ -31,8 +31,8 @@ A Fullstack Tours & Travels Web Application Using MERN Stack 💫
 To Setup this project run
 
 ```bash
-git clone <https://github.com/shuence/Travel-World>
-cd Travel-World
+git clone <https://github.com/rakeshirishi/IndiaTravel>
+cd IndiaTravel
 yarn
 yarn serve
 ```
