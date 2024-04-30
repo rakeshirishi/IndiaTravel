@@ -27,7 +27,7 @@ A Fullstack Tours & Travels Web Application Using MERN Stack 💫
 To Setup this project run
 
 `bash
-git clone <https://github.com/rakeshirishi/IndiaTravel>
+git clone <https://github.com/rakeshirishi/IndiaTravel.git>
 cd IndiaTravel
 yarn
 yarn serve
