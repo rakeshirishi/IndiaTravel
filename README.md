@@ -20,7 +20,7 @@ A Fullstack Tours & Travels Web Application Using MERN Stack 💫
 
 ## Live Preview
 
-<!-- [IndiaTravel](https://indiatravel.netlify.app/) -->
+[IndiaTravel](https://rakeshrishi-indiatravel.netlify.app/)
 
 ## Setup
 
